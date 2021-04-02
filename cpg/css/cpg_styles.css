@@ -45,7 +45,7 @@ button {
 	border: none;
 	color: #5a2654;
 	cursor: pointer;
-  font-weight: bolder;
+  	font-weight: bolder;
 }
 .btn {
 	background-color: #c3962e;
@@ -54,11 +54,11 @@ button {
 	margin: 3rem 0;
 	padding: 1rem 5rem;
 	text-align: left;
-  transition: ease-out 1s;
+  	transition: ease-out 1s;
 }
 .btn:hover {
-  background-color: #dcac3f;
-  transition: ease-out .5s;
+  	background-color: #dcac3f;
+  	transition: ease-out .5s;
 }
 .btn:active {
 	transform: scale(0.96);
