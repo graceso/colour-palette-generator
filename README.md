@@ -1,6 +1,6 @@
 # colour palette generator (affectionately also known as: cpg) 🎨
 
-🍥 [view project](http:/https://colour-palette-generator.netlify.app "view project")
+🍥 [view project](https://colour-palette-generator.netlify.app "view project")
 
 ## ✒️ about
 
